@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>782874028706-8klc5h5cgbu931b5ga38m02otql1ktg3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.782874028706-8klc5h5cgbu931b5ga38m02otql1ktg3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyACFr1BJI6sNu4zwKfn9_uCx2WzVern-b4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>782874028706</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterInstagramClone</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-instagram-clone-13473</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-instagram-clone-13473.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:782874028706:ios:620c0b817dee2327bc05fb</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutter-instagram-clone-13473.firebaseio.com</string>
+</dict>
+</plist>
